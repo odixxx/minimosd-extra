@@ -24,7 +24,7 @@
 //#define MAVLINK_CONFIG 1
 
 
-#define TELEMETRY_SPEED  57600  // initial speed of Serial port for CT
+#define TELEMETRY_SPEED  19200  // initial speed of Serial port for CT
 
 #define BOOTTIME         1300   // Time in milliseconds that we show boot loading bar and wait user input
 
